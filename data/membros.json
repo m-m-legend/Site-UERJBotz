@@ -1,0 +1,218 @@
+{
+  "areas": [
+    {
+      "id": "gestao",
+      "codigo": "GST",
+      "nome": "Gestão",
+      "descricao": "Direção · Estratégia"
+    },
+    {
+      "id": "computacao",
+      "codigo": "CC",
+      "nome": "Computação",
+      "descricao": "Software · Firmware · IA"
+    },
+    {
+      "id": "eletronica",
+      "codigo": "EE",
+      "nome": "Eletrônica",
+      "descricao": "Circuitos · PCBs · Sensores"
+    },
+    {
+      "id": "mecanica",
+      "codigo": "ME",
+      "nome": "Mecânica",
+      "descricao": "CAD · Estruturas · Usinagem"
+    },
+    {
+      "id": "marketing",
+      "codigo": "MKT",
+      "nome": "Marketing",
+      "descricao": "Comunicação · Design · Mídia"
+    },
+    {
+      "id": "mpr",
+      "codigo": "MPR",
+      "nome": "MPR",
+      "descricao": "Educacional · Colaboração · Parcerias"
+    }
+  ],
+
+  "membros": [
+    {
+      "id": "joao-gabriel-daemon",
+      "nome": "João Gabriel Daemon",
+      "area": "gestao",
+      "subarea": "eletronica",
+      "cargo": "Capitão Geral",
+      "lideranca": true,
+      "foto": null,
+      "ativo": true
+    },
+    {
+      "id": "william-torres",
+      "nome": "William Torres",
+      "area": "gestao",
+      "subarea": "computacao",
+      "cargo": "Vice-Capitão",
+      "lideranca": true,
+      "foto": null,
+      "ativo": true
+    },
+    {
+      "id": "maria-procopio",
+      "nome": "Maria Procópio",
+      "area": "gestao",
+      "subarea": null,
+      "cargo": "Gestão Financeira",
+      "lideranca": false,
+      "foto": null,
+      "ativo": true
+    },
+    {
+      "id": "jorge-luiz",
+      "nome": "Jorge Luiz",
+      "area": "gestao",
+      "subarea": null,
+      "cargo": "Capitão",
+      "lideranca": true,
+      "foto": null,
+      "ativo": true
+    },
+
+    {
+      "id": "theo-albuquerque",
+      "nome": "Theo Albuquerque",
+      "area": "computacao",
+      "subarea": null,
+      "cargo": "Capitão",
+      "lideranca": true,
+      "foto": null,
+      "ativo": true
+    },
+    {
+      "id": "marcos-mendonca",
+      "nome": "Marcos Mendonça",
+      "area": "computacao",
+      "subarea": null,
+      "cargo": "Membro",
+      "lideranca": false,
+      "foto": "assets/membros/marcos.png",
+      "ativo": true
+    },
+    {
+      "id": "emanuelle-natal",
+      "nome": "Emanuelle Natal",
+      "area": "computacao",
+      "subarea": null,
+      "cargo": "Membro",
+      "lideranca": false,
+      "foto": null,
+      "ativo": true
+    },
+    {
+      "id": "pedro-gabriel",
+      "nome": "Pedro Gabriel",
+      "area": "computacao",
+      "subarea": null,
+      "cargo": "Membro",
+      "lideranca": false,
+      "foto": null,
+      "ativo": true
+    },
+    {
+      "id": "diogo-alves",
+      "nome": "Diogo Alves",
+      "area": "computacao",
+      "subarea": null,
+      "cargo": "Membro",
+      "lideranca": false,
+      "foto": null,
+      "ativo": true
+    },
+
+    {
+      "id": "arthur-garcia",
+      "nome": "Arthur Garcia",
+      "area": "eletronica",
+      "subarea": null,
+      "cargo": "Capitão",
+      "lideranca": true,
+      "foto": null,
+      "ativo": true
+    },
+    {
+      "id": "rodrigo-cardoso",
+      "nome": "Rodrigo Cardoso",
+      "area": "eletronica",
+      "subarea": null,
+      "cargo": "Membro",
+      "lideranca": false,
+      "foto": null,
+      "ativo": true
+    },
+
+    {
+      "id": "angelo-costa",
+      "nome": "Ângelo Costa",
+      "area": "mecanica",
+      "subarea": null,
+      "cargo": "Capitão",
+      "lideranca": true,
+      "foto": "assets/membros/angelo.png",
+      "ativo": true
+    },
+    {
+      "id": "luiz-artur-carvalho",
+      "nome": "Luiz Artur Carvalho",
+      "area": "mecanica",
+      "subarea": null,
+      "cargo": "Membro",
+      "lideranca": false,
+      "foto": null,
+      "ativo": true
+    },
+    {
+      "id": "matheus-baima",
+      "nome": "Matheus Baima",
+      "area": "mecanica",
+      "subarea": null,
+      "cargo": "Membro",
+      "lideranca": false,
+      "foto": null,
+      "ativo": true
+    },
+
+    {
+      "id": "arthur-aguiar",
+      "nome": "Arthur Aguiar",
+      "area": "marketing",
+      "subarea": null,
+      "cargo": "Capitão",
+      "lideranca": true,
+      "foto": null,
+      "ativo": true
+    },
+    {
+      "id": "argos-maia",
+      "nome": "Argos Maia",
+      "area": "marketing",
+      "subarea": null,
+      "cargo": "Membro",
+      "lideranca": false,
+      "foto": null,
+      "ativo": true
+    },
+
+    {
+      "id": "thaly",
+      "nome": "Thaly",
+      "area": "mpr",
+      "subarea": null,
+      "cargo": "Capitã",
+      "lideranca": true,
+      "foto": null,
+      "ativo": true
+    }
+  ]
+}

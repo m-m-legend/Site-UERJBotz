@@ -1,0 +1,16 @@
+[
+  {
+    "id": "uerj",
+    "nome": "UERJ",
+    "logo": "assets/parceiros/logo-uerj.png",
+    "tipo": "institucional",
+    "ativo": true
+  },
+  {
+    "id": "fen",
+    "nome": "FEN",
+    "logo": "assets/parceiros/logo-fen-mecanica.png",
+    "tipo": "institucional",
+    "ativo": true
+  }
+]

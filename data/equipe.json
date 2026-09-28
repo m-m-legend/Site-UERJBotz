@@ -1,0 +1,36 @@
+{
+  "nome": "UERJBotz",
+  "nomeCompleto": "Equipe de Robótica da Universidade do Estado do Rio de Janeiro",
+  "fundacao": 2013,
+  "campus": "Maracanã",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+  "status": "ativa",
+
+  "descricao": "Equipe universitária de robótica da Universidade do Estado do Rio de Janeiro. Projetamos, construímos e competimos com robôs autônomos e radiocontrolados em torneios nacionais e internacionais.",
+
+  "areas": [
+    "Computação",
+    "Eletrônica",
+    "Mecânica",
+    "Gestão",
+    "Marketing",
+    "MPR"
+  ],
+
+  "mascote": {
+    "nome": "Tochinha",
+    "descricao": "Mascote da UERJBotz"
+  },
+
+  "contato": {
+    "email": "uerjbotz@gmail.com",
+    "instagram": "https://instagram.com/uerjbotz",
+    "linkedin": "https://linkedin.com/company/uerjbotz"
+  },
+
+  "links": {
+    "instagram": "https://instagram.com/uerjbotz",
+    "linkedin": "https://linkedin.com/company/uerjbotz"
+  }
+}

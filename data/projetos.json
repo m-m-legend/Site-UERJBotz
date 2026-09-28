@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ultrat",
+    "codigo": "R-01",
+    "nome": "Ultra T",
+    "categoria": "Mini Sumô · 500 g",
+    "descricao": "Mini Sumô pós-moderno, agressivo e preciso. Seu conceito envolve 4 sensores, sendo 2 frontais e 2 laterais.",
+    "imagem": "assets/projetos/UltraT.png",
+    "tags": [
+      "Mini Sumô",
+      "Autônomo",
+      "2026"
+    ],
+    "status": "ativo"
+  },
+  {
+    "id": "tocha-jr",
+    "codigo": "R-02",
+    "nome": "Tocha Jr.",
+    "categoria": "Seguidor de linha",
+    "descricao": "Seguidor de linha de alta performance com PID adaptativo e visão embarcada, focado em competições regionais.",
+    "imagem": null,
+    "tags": [
+      "Line Follower",
+      "PID",
+      "STM32"
+    ],
+    "status": "ativo"
+  },
+  {
+    "id": "chama",
+    "codigo": "R-03",
+    "nome": "Chama",
+    "categoria": "Sumô autônomo",
+    "descricao": "Robô sumô autônomo com sensores de bordas e detecção de oponente. Estrutura em alumínio usinado.",
+    "imagem": null,
+    "tags": [
+      "Sumô",
+      "ROS",
+      "CV"
+    ],
+    "status": "ativo"
+  },
+  {
+    "id": "botz-nas-escolas",
+    "codigo": "R-04",
+    "nome": "Botz nas Escolas",
+    "categoria": "Extensão · Educacional",
+    "descricao": "Projeto de extensão que leva oficinas de robótica gratuitas para escolas públicas do estado do Rio de Janeiro.",
+    "imagem": null,
+    "tags": [
+      "Extensão",
+      "Arduino",
+      "Educação"
+    ],
+    "status": "ativo"
+  },
+  {
+    "id": "fenix",
+    "codigo": "R-05",
+    "nome": "Fênix",
+    "categoria": "Drone · Pesquisa",
+    "descricao": "Plataforma de drone para pesquisa de navegação autônoma em ambientes internos, com SLAM visual.",
+    "imagem": null,
+    "tags": [
+      "Drone",
+      "SLAM",
+      "Pesquisa"
+    ],
+    "status": "ativo"
+  },
+  {
+    "id": "salamandra",
+    "codigo": "R-06",
+    "nome": "Salamandra",
+    "categoria": "Hexapod",
+    "descricao": "Robô hexápode experimental com cinemática inversa customizada. Projeto de pesquisa interna da equipe.",
+    "imagem": null,
+    "tags": [
+      "Hexapod",
+      "IK",
+      "C++"
+    ],
+    "status": "ativo"
+  }
+]
